@@ -1,0 +1,17 @@
+User name||Car plate number||Car model||Pick-up date||Return date||Duration(days)||Total payment(RM)
+Davis William||VCF3652||Perodua Alza||2020-06-20||2020-06-27||7||147
+Kelvin Lim||PDV8990||Honda City||2020-07-05||2020-07-20||15||300
+John Chew||PTV7564||Toyota Vios||2020-07-10||2020-07-20||10||220
+Davis William||PPY1697||Perodua Axia||2020-07-25||2020-08-04||10||200
+Fiona Watson||TJU3577||Proton Persona||2020-08-15||2020-08-31||16||352
+Thomas Crane||KGH2849||Perodua Viva||2020-09-09||2020-09-18||9||180
+John Chew||PTV7564||Toyota Vios||2020-10-14||2020-11-05||22||484
+Kelvin Lim||KLS4537||Proton Saga||2020-10-22||2020-11-16||25||450
+Davis William||CKS9545||Proton Exora||2020-12-19||2021-01-01||13||325
+Fiona Watson||JRD1645||Perodua Myvi||2021-02-16||2021-03-9||21||420
+Thomas Crane||PTV7564||Toyota Vios||2021-04-1||2021-04-26||25||125
+Steven Koh||PPY1697||Perodua Axia||2021-04-25||2021-05-12||17||340
+Mohan Kathy||PDV8990||Honda City||2021-05-30||2021-06-18||19||380
+Alice Tan||KGH2849||Perodua Viva||||2021-06-5||2021-06-19||14||280
+Kadir Mohsin||TJU3577||Proton Persona||2021-06-25||2021-07-05||10||220
+Zainal Abidin||CKS9545||Proton Exora||2021-07-1||2021-07-08||7||175

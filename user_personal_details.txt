@@ -1,0 +1,11 @@
+User name||Age||Address||Telephone number||E-mail address||Driving license number
+Davis William||25||222,Jalan Sultan Iskandar Shah,30000,Ipoh,Perak||+60165897261||davisw@gmail.com||25798674
+Kadir Mohsin||28||1123,Johor Jaya,81900,Kota Tinggi,Johor||+60124586789||mohsin@gmail.com||65498521
+Kelvin Lim||30||123,Petaling Street,57000,Sri Petaling,Kuala Lumpur||+60123651245||kelvin0930@gmail.com||16549821
+Mohan Kathy||32||32,Albukhary Road,08000,Sungai Petani,Kedah||+60184425567||mk0707@gmail.com||65897121
+Alice Tan||24||11,Jalan Haron,80100,Johor Bahru,Johor||+601125567845||alicetan1224@gmail.com||25849957
+John Chew||25||12,Jalan Puchong,47100,Puchong,Selangor||+60127789546||john1119@gmail.com||85541233
+Zainal Abidin||35||436,Jalan Larkin,80200,Johor Bahru,Johor||+601121654789||zainal0423@gmail.com||89744154
+Thomas Crane||30||10,Jalan Batu Tiga Lama,41200,Klang,Selangor||+60186632541||thomas0915@gmail.com||56478521
+Steven Koh||26||48,Jalan Berlian,68100,Batu Caves,Selangor||+60163524856||stevenkoh@gmail.com||79865521
+Fiona Watson||29||99,Jalan Sultan Idris Shah,30000,Ipoh,Perak||+60124895759||fiona0327@gmail.com||98541252

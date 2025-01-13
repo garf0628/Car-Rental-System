@@ -1,0 +1,11 @@
+Car plate number||Car Model||Seater||Color||Cost per day(RM)||Available/Rented out
+JRD1645||Perodua Myvi||5||Ocean Blue||20||Rented out
+KLS4537||Proton Saga||5||Rosewood Maroon||18||Available
+PDV8990||Honda City||5||Crystal Black Pearl||20||Rented out
+PTV7564||Toyota Vios||5||Orange Metallic||22||Available
+VCF3652||Perodua Alza||7||Electric Blue||21||Available
+KGH2849||Perodua Viva||5||Glittering Silver||20||Rented out
+BXZ0548||Honda Civic||5||Silver||24||Available
+TJU3577||Proton Persona||5||Jet Grey||22||Rented out
+PPY1697||Perodua Axia||5||Midnight Blue Metallic||20||Available
+CKS9545||Proton Exora||7||Cocoa Grey||25||Rented out

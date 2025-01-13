@@ -1,0 +1,5 @@
+User name||Car plate number||Car model||Pick-up and return location||Pick-up date||Return date||Duration(days)
+Mohan Kathy||PDV8990||Honda City||32,Albukhary Road,08000,Sungai Petani,Kedah||2021-05-30||2021-06-18||19
+Alice Tan||KGH2849||Perodua Viva||11,Jalan Haron,80100,Johor Bahru,Johor||2021-06-5||2021-06-19||14
+Kadir Mohsin||TJU3577||Proton Persona||11,Johor Jaya,81900,Kota Tinggi,Johor||2021-06-25||2021-07-05||10
+Zainal Abidin||CKS9545||Proton Exora||436,Jalan Larkin,80200,Johor Bahru,Johor||2021-07-1||2021-07-08||7

@@ -1,0 +1,13 @@
+User name||Car plate number||Car model||Pick-up and return location||Pick-up date||Return date||Duration(days)
+Davis William||VCF3652||Perodua Alza||222,Jalan Sultan Iskandar Shah,30000,Ipoh,Perak||2020-06-20||2020-06-27||7
+Kelvin Lim||PDV8990||Honda City||123,Petaling Street,57000,Sri Petaling,Kuala Lumpur||2020-07-05||2020-07-20||15
+John Chew||PTV7564||Toyota Vios||12,Jalan Puchong,47100,Puchong,Selangor||2020-07-10||2020-07-20||10
+Davis William||PPY1697||Perodua Axia||17,Jalan Lim Swee Aun,34000,Taiping,Perak||2020-07-25||2020-08-04||10
+Fiona Watson||TJU3577||Proton Persona||99,Jalan Sultan Idris Shah,30000,Ipoh,Perak||2020-08-15||2020-08-31||16
+Thomas Crane||KGH2849||Perodua Viva||10,Jalan Batu Tiga Lama,41200,Klang,Selangor||2020-09-09||2020-09-18||9
+John Chew||PTV7564||Toyota Vios||12,Jalan Puchong,47100,Puchong,Selangor||2020-10-14||2020-11-05||22
+Kelvin Lim||KLS4537||Proton Saga||123,Petaling Street,57000,Sri Petaling,Kuala Lumpur||2020-10-22||2020-11-16||25
+Davis William||CKS9545||Proton Exora||222,Jalan Sultan Iskandar Shah,30000,Ipoh,Perak||2020-12-19||2021-01-01||13
+Fiona Watson||JRD1645||Perodua Myvi||99,Jalan Sultan Idris Shah,30000,Ipoh,Perak||2021-02-16||2021-03-9||21
+Thomas Crane||PTV7564||Toyota Vios||10,Jalan Batu Tiga Lama,41200,Klang,Selangor||2021-04-1||2021-04-26||25
+Steven Koh||PPY1697||Perodua Axia||48,Jalan Berlian,68100,Batu Caves,Selangor||2021-04-25||2021-05-12||17

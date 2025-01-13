@@ -1,0 +1,11 @@
+Admin ID||Admin Name||Password
+FY5645||Clyde Dean||cy32674
+HG3456||Dewi Finch||df89548
+BC5639||Kier Rivas||kr79272
+KJ8236||Bryan Low||bl58912
+YR6564||Rico Solis||rs01263
+DS3246||Axel Bates||ab67845
+MK0455||Rahma Rowland||rr21556
+UG8785||Winston Barnard||wb48788
+LT9456||Jarvis Terrell||jt65255
+QW8466||Adelaide Fuller||af84548
